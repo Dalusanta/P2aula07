@@ -8,6 +8,7 @@ public class Main {
         Lista lista = new Lista();
         boolean verdade = true;
         
+        
         System.out.println("Lista to-do: ");
         while(verdade) {
             System.out.println("");
